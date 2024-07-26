@@ -14,7 +14,7 @@ public class Prime_From_1_to_N {
                 }
 
             }
-            //print the present number as prime if count value is only 1
+            //print the present number as prime if only count value is 1
             if (count == 1) {
                 System.out.println(a + " is prime number");
             }
