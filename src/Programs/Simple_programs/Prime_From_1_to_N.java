@@ -5,14 +5,16 @@ public class Prime_From_1_to_N {
         int n = 18;
 
         for (int a = 2; a <= n; a++) {
+            //create count value fresh to every number
             int count = 0;
             for (int i = 2; i <= a; i++) {
                 if (a % i == 0) {
+                    //Count the value if present number is divisible by inner loop
                     count++;
-
                 }
 
             }
+            //print the present number as prime if count value is only 1
             if (count == 1) {
                 System.out.println(a + " is prime number");
             }
