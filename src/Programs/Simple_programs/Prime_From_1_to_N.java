@@ -3,6 +3,7 @@ package Programs.Simple_programs;
 public class Prime_From_1_to_N {
     public static void main(String[] args) {
         int n = 18;
+        System.out.println("Prime numbers from "+1+" to "+n);
 
         for (int a = 2; a <= n; a++) {
             //create count value fresh to every number
@@ -16,7 +17,7 @@ public class Prime_From_1_to_N {
             }
             //print the present number as prime if only count value is 1
             if (count == 1) {
-                System.out.println(a + " is prime number");
+                System.out.print(a+" ");
             }
         }
     }
