@@ -1,4 +1,4 @@
-# Java programs for all beginners 👩‍💻💻
+# 🍵Java programs for all beginners 👩‍💻💻
 ### This repository consist of all the java programs and Examples
 *Contains* 🫣🫣
 - Basics of java
@@ -8,7 +8,8 @@
 - OOPS
 - Collections
 ### Interview Programs 🧠🧠
-- *** Pattern programs ***
-- "String Programs"
+- Basic programs LIKE (Fibonacci Series, Multiplication table, Even or Odd etc.,) 
+- *** Pattern programs *** LIKE (pyramid, diamond, triangle etc.,)
+- "String Programs" LIKE (Reverse String, palindrome, etc.,)
 - 1 Number Type Programs 9
 
