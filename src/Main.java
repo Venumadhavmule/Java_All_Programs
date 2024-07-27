@@ -10,6 +10,6 @@ public class Main {
 
         int p=add(10,20) ;
         System.out.println(p);
-        System.out.println(c);
+        //System.out.println(c);
     }
 }
