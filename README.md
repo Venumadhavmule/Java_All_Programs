@@ -9,7 +9,7 @@
 - Collections
 ### Interview Programs 🧠🧠
 - Basic programs LIKE (Fibonacci Series, Multiplication table, Even or Odd etc.,) 
-- *** Pattern programs *** LIKE (pyramid, diamond, triangle etc.,)
+- *** PATTERN PROGRAMS *** LIKE (pyramid, diamond, triangle etc.,)
 - "String Programs" LIKE (Reverse String, palindrome, etc.,)
 - 1 Number Type Programs 9
 
