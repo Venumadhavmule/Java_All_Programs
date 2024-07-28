@@ -9,6 +9,7 @@ public class CreaitngObjectDemo {
         Rectangle rectOne=new Rectangle(100,200,originOne);
         Rectangle rectTwo=new Rectangle(50,100);
 
+
         // Display rectOne's Width, height,area
         System.out.println("Width of rectOne: "+rectOne.width);
         System.out.println("Height of rectOne: "+rectOne.height);

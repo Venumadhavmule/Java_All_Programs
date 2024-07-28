@@ -4,6 +4,7 @@ public class Rectangle {
     public int width=0;
     public int height=0;
     public Point origin;
+    static final int AGE=55;
 
     //four constructors
 
@@ -17,6 +18,7 @@ public class Rectangle {
         height=h;
     }
     public Rectangle(int w,int h,Point p){
+//        this(p);
         width=w;
         height=h;
         origin=p;
