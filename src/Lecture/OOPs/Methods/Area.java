@@ -17,7 +17,7 @@ public class Area {
     public void area(){
         System.out.println(areaOfCircle());
         System.out.println(areaOfRectangle());
-        System.out.println(+areaOfTriangle());
+        System.out.println(areaOfTriangle());
     }
 
 
