@@ -15,9 +15,9 @@ public class Area {
 
     //Area of various forms
     public void area(){
-        System.out.println("Area of Circle: "+areaOfCircle());
-        System.out.println("Area of Rectangle: "+areaOfRectangle());
-        System.out.println("Area of Trianlge "+areaOfTriangle());
+        System.out.println(areaOfCircle());
+        System.out.println(areaOfRectangle());
+        System.out.println(+areaOfTriangle());
     }
 
 
@@ -29,11 +29,13 @@ public class Area {
 
     //Method for Area Of Triangle
     double areaOfTriangle(){
+        System.out.print("Area of Triangle: ");
         return (0.5)*breadth*breadth;
     }
 
     //Method for Area of Rectangle
     double areaOfRectangle(){
+        System.out.print("Area of Rectangle: ");
         return length*breadth;
     }
 }
