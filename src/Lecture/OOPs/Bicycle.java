@@ -5,7 +5,7 @@ class Bicycle {
     private int speed; 
     private int gear;
     private int id;
-    private static int numberOfBicycles=0;
+    static int numberOfBicycles=12;
 //    public Bicycle(){
 //        System.out.println("Default constructor is invoked");
 //        System.out.println(cadence);
@@ -45,23 +45,26 @@ class BicycleDemo{
     public static void main(String args[]){
 //        Bicycle b= new Bicycle();
         Bicycle b1= new Bicycle(50,60,5);
+        System.out.println(b1.numberOfBicycles);
+        Bicycle.numberOfBicycles=33;
         Bicycle b2=new Bicycle(30,40,4);
+        System.out.println(b2.getNumberOfBicycles());
+        System.out.println(b1.getNumberOfBicycles());
         System.out.println(b1.getCadence());
         System.out.println(b1.getSpeed());
         System.out.println(b1.getGear());
         System.out.println("Number of Bicycles :"+b1.getNumberOfBicycles());
-//        b1.changeCadence(50);
-//        b1.changeGear(2);
-//        b1.speedUp(60);
-//        b1.applyBreaks(20);
-//        b1.printStates();
-//
-//
-//        b2.changeCadence(45);
-//        b2.changeGear(5);
-//        b2.speedUp(80);
-//        b2.applyBreaks(30);
-//        b2.printStates();
+        b1.changeCadence(50);
+        b1.changeGear(2);
+        b1.speedUp(60);
+        b1.applyBreaks(20);
+
+
+        b2.changeCadence(45);
+        b2.changeGear(5);
+        b2.speedUp(80);
+        b2.applyBreaks(30);
+
 
     }
 }
