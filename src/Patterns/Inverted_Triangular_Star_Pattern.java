@@ -15,6 +15,7 @@ public class Inverted_Triangular_Star_Pattern {
         Scanner s=new Scanner(System.in);
         System.out.print("Enter n value: ");
         int n = s.nextInt();
+
         for (int i = 0; i < n; i++) {
             //for first spaces
             for(int j=0; j<i;j++){
