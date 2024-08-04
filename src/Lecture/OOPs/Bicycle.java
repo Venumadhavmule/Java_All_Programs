@@ -64,7 +64,5 @@ class BicycleDemo{
         b2.changeGear(5);
         b2.speedUp(80);
         b2.applyBreaks(30);
-
-
-    }
+   }
 }
