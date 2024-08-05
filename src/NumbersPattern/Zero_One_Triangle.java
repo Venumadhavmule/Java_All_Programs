@@ -1,5 +1,18 @@
 package NumbersPattern;
+/*Program for this pattern
+        1
+        0 1
+        1 0 1
+        0 1 0 1
 
+        Second method:
+        1
+        0 1
+        1 0 1
+        0 1 0 1
+        1 0 1 0 1
+        0 1 0 1 0 1
+ */
 public class Zero_One_Triangle {
     public static void main(String [] args) {
         for(int i = 1; i<=4; i++) {
