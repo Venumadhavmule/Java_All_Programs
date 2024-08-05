@@ -25,6 +25,7 @@ public class Symmetric_Triangle {
             for(int j=1; j<=start;j++){
                 System.out.print("*");
             }
+
             System.out.println();
         }
     }

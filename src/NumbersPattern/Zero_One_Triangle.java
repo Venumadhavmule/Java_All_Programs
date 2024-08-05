@@ -12,5 +12,20 @@ public class Zero_One_Triangle {
             }
             System.out.println();
         }
+
+        System.out.println("\nSecond method: ");
+        int start=1;
+        for(int i=0;i<6;i++){
+            if(i%2==0){
+                start=1;
+            }else {
+                start=0;
+            }
+            for(int j=0;j<=i;j++){
+                System.out.print(start+" ");
+                start=1-start;
+            }
+            System.out.println();
+        }
     }
 }
