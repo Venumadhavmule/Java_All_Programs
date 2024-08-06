@@ -8,6 +8,8 @@ package NumbersPattern;
 public class Number_Increasing_Pyramid {
     public static void main(String[] args) {
         int num=1;
+
+        //for outer loop
         for(int i=0;i<4;i++){
 
             //loop for spaces
