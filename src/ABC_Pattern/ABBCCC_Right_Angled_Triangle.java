@@ -7,7 +7,7 @@ package ABC_Pattern;
    E E E E E
 
  */
-public class AABBCC_Right_Angled_Triangle {
+public class ABBCCC_Right_Angled_Triangle {
     public static void main(String args[]){
         for(int i=0; i<5; i++){
 
