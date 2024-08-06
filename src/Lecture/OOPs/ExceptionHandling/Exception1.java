@@ -25,5 +25,15 @@ public class Exception1 {
             System.out.println(a + " " + b);
 
         }
+
+        int p=5_00_000;
+        int t=5;
+        int r=2;
+        try{
+            int si=(p*t*r)/0;
+            System.out.println(si);
+        }catch (ArithmeticException ae){
+            System.out.print(ae+" Occured");
+        }
     }
 }
