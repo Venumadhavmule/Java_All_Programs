@@ -1,9 +1,21 @@
 package Patterns;
+/* program for
+StaggeredRectangle pattern:
+* * * *
+ * * * *
+  * * * *
+   * * * *
+Reverse StaggeredRectangle pattern
+   * * * *
+  * * * *
+ * * * *
+* * * *
 
-public class RhombusPattern {
+ */
+public class StaggeredRectangle {
     public static void main(String args []){
 
-        System.out.println("Rhombus pattern:");
+        System.out.println("StaggeredRectangle pattern:");
         for(int i = 0;i<4; i++){
             for(int j=0;j<i;j++){
                 System.out.print(" ");
@@ -14,7 +26,7 @@ public class RhombusPattern {
             System.out.println();
         }
 
-        System.out.println("Reverse Rhombus pattern");
+        System.out.println("Reverse StaggeredRectangle pattern");
         for(int i=1; i<=4;i++){
             for(int j=1; j<=4-i ; j++) {
                 System.out.print(" ");
