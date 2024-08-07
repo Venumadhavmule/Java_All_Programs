@@ -1,14 +1,15 @@
 package Lecture.OOPs.ExceptionHandling;
 
 /*
+
 Exception
---compile time errors
+--compile time errors(Checked Exceptions)
   1.classNotFound
   2.fileNotFound
---Runtime errors
+--Runtime errors (Unchecked Exceptions)
   1.ArithmeticException
   2.NumberNotFoundException
-
+  3.LogicalException(identify By debugging)
 
  */
 
@@ -29,11 +30,27 @@ public class Exception1 {
         int p=5_00_000;
         int t=5;
         int r=2;
+
+        //try & catch & finally only
+        System.out.println("This is from Try & catch & finally blocks");
         try{
             int si=(p*t*r)/0;
-            System.out.println(si);
+            System.out.println("Simple interest : "+si);
         }catch (ArithmeticException ae){
             System.out.print(ae+" Occured");
+        }finally {
+            System.out.print("Finally block is Excecuted");
         }
+
+        //try & finally
+        System.out.println("This is from Try & final blocks");
+        try{
+            int si=(p*t*r)/10;
+            System.out.println("Simple interest : "+si);
+        }finally {
+            System.out.print("Finally block is Excecuted");
+        }
+
+
     }
 }
