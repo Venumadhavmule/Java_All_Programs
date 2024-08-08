@@ -1,4 +1,4 @@
-package Programs.Simple_programs;
+package Simple_programs;
 
 public class Prime_Number_Or_Not {
     public static void main(String[] args) {

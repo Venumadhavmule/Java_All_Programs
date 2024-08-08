@@ -1,4 +1,4 @@
-package Programs.Simple_programs;
+package Simple_programs;
 
 public class Prime_From_1_to_N {
     public static void main(String[] args) {

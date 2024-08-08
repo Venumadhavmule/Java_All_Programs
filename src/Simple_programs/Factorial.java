@@ -1,4 +1,4 @@
-package Programs.Simple_programs;
+package Simple_programs;
 
 public class Factorial {
     public static void main(String[] args) {

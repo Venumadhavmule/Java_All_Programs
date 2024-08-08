@@ -1,4 +1,4 @@
-package Programs.Simple_programs;
+package Simple_programs;
 
 // Fibonacci series means Addition of nextvalue= present number + previous number
 public class Fibonacci_Series {

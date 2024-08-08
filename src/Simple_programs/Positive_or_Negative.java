@@ -1,4 +1,4 @@
-package Programs.Simple_programs;
+package Simple_programs;
 import java.util.Scanner;
 public class Positive_or_Negative {
     public static void main(String args []) {

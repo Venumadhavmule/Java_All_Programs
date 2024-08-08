@@ -1,4 +1,4 @@
-package Programs.Simple_programs;
+package Simple_programs;
 
 import java.util.Arrays;
 
