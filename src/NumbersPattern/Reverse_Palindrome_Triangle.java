@@ -1,11 +1,13 @@
 package NumbersPattern;
 /*program for
 
-543212345
- 4321234
-  32123
-   212
-    1
+Enter N value: 6
+65432123456
+ 543212345
+  4321234
+   32123
+    212
+     1
 
  */
 import java.util.*;
