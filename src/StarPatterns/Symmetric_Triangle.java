@@ -1,4 +1,4 @@
-package Patterns;
+package StarPatterns;
 /* program print the following symmetric pattern
         *
         **

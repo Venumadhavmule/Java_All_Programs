@@ -1,4 +1,4 @@
-package Points;
+package Lecture.OOPs.Points;
 
 public class Rectangle {
     public int width=0;

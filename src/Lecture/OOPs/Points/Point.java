@@ -1,4 +1,4 @@
-package Points;
+package Lecture.OOPs.Points;
 
 public class Point {
     public int x=0;

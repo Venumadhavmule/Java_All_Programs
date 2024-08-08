@@ -1,4 +1,4 @@
-package Patterns;
+package StarPatterns;
 
 /* code for inverted triangle pattern
 

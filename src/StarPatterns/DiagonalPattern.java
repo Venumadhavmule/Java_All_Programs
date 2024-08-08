@@ -1,4 +1,4 @@
-package Patterns;
+package StarPatterns;
 
 public class DiagonalPattern {
     public static void main(String [] args) {

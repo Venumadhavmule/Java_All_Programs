@@ -1,4 +1,4 @@
-package Patterns;
+package StarPatterns;
 
 public class SquareFilledWithStarts {
     public static void main(String [] args) {

@@ -1,6 +1,4 @@
-package Points;
-
-import org.w3c.dom.css.Rect;
+package Lecture.OOPs.Points;
 
 public class CreaitngObjectDemo {
     public static void main(String[] args) {
