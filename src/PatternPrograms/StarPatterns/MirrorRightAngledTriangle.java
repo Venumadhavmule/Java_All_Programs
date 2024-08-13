@@ -1,4 +1,4 @@
-package StarPatterns;
+package PatternPrograms.StarPatterns;
 
 public class MirrorRightAngledTriangle {
     public static void main(String [] args) {

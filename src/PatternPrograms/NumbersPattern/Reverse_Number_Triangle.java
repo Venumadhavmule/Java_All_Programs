@@ -1,4 +1,4 @@
-package NumbersPattern;
+package PatternPrograms.NumbersPattern;
 /* program for
         1 2 3 4 5
         1 2 3 4

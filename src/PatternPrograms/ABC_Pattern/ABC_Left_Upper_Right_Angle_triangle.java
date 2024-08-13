@@ -1,4 +1,4 @@
-package ABC_Pattern;
+package PatternPrograms.ABC_Pattern;
 /* program for
     A B C D E
     A B C D

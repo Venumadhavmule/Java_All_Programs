@@ -1,4 +1,4 @@
-package StarPatterns;
+package PatternPrograms.StarPatterns;
 
 public class MirrorDiagonalPattern {
     public static void main(String [] args) {

@@ -1,4 +1,4 @@
-package NumbersPattern;
+package PatternPrograms.NumbersPattern;
 /*program for
 
 Enter N value: 6

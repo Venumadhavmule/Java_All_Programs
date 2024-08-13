@@ -1,4 +1,4 @@
-package StarPatterns;
+package PatternPrograms.StarPatterns;
 
 /* Program for following pattern
     *

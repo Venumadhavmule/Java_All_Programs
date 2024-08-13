@@ -1,4 +1,4 @@
-package StarPatterns;
+package PatternPrograms.StarPatterns;
 /* program print the following symmetric pattern
         *
         **

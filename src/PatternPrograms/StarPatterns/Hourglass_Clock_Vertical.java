@@ -1,4 +1,4 @@
-package StarPatterns;
+package PatternPrograms.StarPatterns;
 /* program for
 
 Enter n value: 6
@@ -29,7 +29,6 @@ By using Second Method
 *          *
 
  */
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 public class Hourglass_Clock_Vertical {
     public static void main(String[] args) {
