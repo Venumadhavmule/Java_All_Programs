@@ -1,7 +1,19 @@
 package StarPatterns;
-
+/* program for
+Enter n value: 6
+     *
+    * *
+   * * *
+  * * * *
+ * * * * *
+* * * * * *
+ * * * * *
+  * * * *
+   * * *
+    * *
+     *
+*/
 import java.util.Scanner;
-
 public class Diamond_Pattern {
     public static void main(String args[]){
         int i,j;

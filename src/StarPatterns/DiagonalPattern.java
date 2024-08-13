@@ -1,5 +1,13 @@
 package StarPatterns;
+/* program for
 
+ *
+  *
+   *
+    *
+     *
+      *
+ */
 public class DiagonalPattern {
     public static void main(String [] args) {
         for(int r = 0; r <= 5; r++){

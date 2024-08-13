@@ -10,7 +10,7 @@ package NumbersPattern;
  */
 import java.util.Scanner;
 
-public class NumberChangingPyramid {
+public class Number_Incremental_Triangle{
     public static void main(String [] args) {
         Scanner s=new Scanner(System.in);
         System.out.print("Enter n value: ");

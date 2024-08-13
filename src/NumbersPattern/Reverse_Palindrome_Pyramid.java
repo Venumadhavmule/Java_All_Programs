@@ -11,7 +11,7 @@ Enter N value: 6
 
  */
 import java.util.*;
-public class Reverse_Palindrome_Triangle {
+public class Reverse_Palindrome_Pyramid {
     public static void main(String[] args) {
 
         Scanner ref= new Scanner(System.in);

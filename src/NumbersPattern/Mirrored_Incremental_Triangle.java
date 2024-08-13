@@ -6,7 +6,7 @@ package NumbersPattern;
         12344321
 
  */
-public class M_Shape_Numbering {
+public class Mirrored_Incremental_Triangle {
     public static void main(String[] args) {
         for(int i=1; i<=4;i++){
 

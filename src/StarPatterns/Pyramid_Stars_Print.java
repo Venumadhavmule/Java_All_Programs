@@ -10,7 +10,7 @@ package StarPatterns;
 */
 
 import java.util.Scanner;
-public class Triangular_Star_Pattern {
+public class Pyramid_Stars_Print{
     public static void main(String[] args) {
         Scanner ref= new Scanner(System.in);
         System.out.print("Enter N value: ");
