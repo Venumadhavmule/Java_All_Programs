@@ -1,8 +1,8 @@
 package NumbersPattern;
 /*program for
-        ___1
-        __2 3
-        _4 5 6
+           1
+          2 3
+         4 5 6
         7 8 9 10
  */
 public class Number_Increasing_Pyramid {
@@ -14,7 +14,7 @@ public class Number_Increasing_Pyramid {
 
             //loop for spaces
             for(int j=0;j<4-i-1;j++){
-                System.out.print("_");
+                System.out.print(" ");
             }
 
             //loop for numbers print
