@@ -1,4 +1,4 @@
-package Programs;
+package AlgorithmicPrograms;
 
 //Swapping of two numbers without using 3Rd variable
 public class Swapping {

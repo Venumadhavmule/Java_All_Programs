@@ -1,4 +1,4 @@
-package Programs;
+package AlgorithmicPrograms;
 
 public class Vowels_Consonants_Count {
     public static void main(String [] args) {

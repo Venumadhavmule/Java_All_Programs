@@ -1,4 +1,4 @@
-package Programs.Recursion;
+package AlgorithmicPrograms.Recursion;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Programs;
+package AlgorithmicPrograms;
 import java.util.*;
 
 

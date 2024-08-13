@@ -1,4 +1,4 @@
-package Programs;
+package AlgorithmicPrograms;
 
 public class PangramString {
     public static void main(String[] args) {

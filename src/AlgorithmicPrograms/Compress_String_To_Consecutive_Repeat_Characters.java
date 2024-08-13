@@ -1,4 +1,4 @@
-package Programs;
+package AlgorithmicPrograms;
 
 public class Compress_String_To_Consecutive_Repeat_Characters {
     public static void main(String args[]) {

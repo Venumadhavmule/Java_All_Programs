@@ -1,4 +1,4 @@
-package Programs;
+package AlgorithmicPrograms;
 
 public class HappyNumber {
     public static void main(String [] args) {
