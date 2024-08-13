@@ -4,7 +4,7 @@ public class CreaitngObjectDemo {
     public static void main(String[] args) {
         //Creating a point object and 2 objects for Rectangle class
         Point originOne=new Point(23,94);
-        Rectangle rectOne=new Rectangle(100,200,originOne);
+        Rectangle rectOne=new Rectangle(originOne,100,200);
         Rectangle rectTwo=new Rectangle(50,100);
 
 
