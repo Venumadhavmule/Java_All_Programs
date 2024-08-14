@@ -1,6 +1,6 @@
 package Lecture.OOPs.Points;
 
-public class CreaitngObjectDemo {
+public class CreateObjectDemo {
     public static void main(String[] args) {
         //Creating a point object and 2 objects for Rectangle class
         Point originOne=new Point(23,94);

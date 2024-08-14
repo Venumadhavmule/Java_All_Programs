@@ -17,7 +17,7 @@ public class Rectangle {
         width=w;
         height=h;
     }
-    public Rectangle(int w,int h,Point p){
+    public Rectangle(Point p,int w,int h){
 //        this(p);
         width=w;
         height=h;
