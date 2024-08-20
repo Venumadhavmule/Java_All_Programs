@@ -33,6 +33,7 @@ public class ArrayListDemo {
         arl.add("apple");
         arl.add("guava");
         arl.add("Grapes");
+        System.out.println(arl.isEmpty());
         arl.add("Banana");
         arl.add("Mango");
         System.out.println("Array list values: "+arl);
