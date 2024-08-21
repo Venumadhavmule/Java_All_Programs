@@ -52,16 +52,18 @@ public class LinkedListDemo {
         ll.add("China");
         ll.add("russia");
         System.out.println("Linked list: "+ll);
-        ll.clear();
+//        ll.clear();
+//        System.out.println("Linked list: "+ll);
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
         String element;
         int pos,choice=0;
-        while(choice<4){
+        while(choice<5){
             System.out.println("linked list operations");
             System.out.println("1.insert element");
             System.out.println("2.remove element");
             System.out.println("3.change element");
-            System.out.println("4.exit");
+            System.out.println("4.Get element at position");
+            System.out.println("5.exit");
             System.out.println("your choice:");
             choice=Integer.parseInt(br.readLine());
             switch (choice){
@@ -84,6 +86,10 @@ public class LinkedListDemo {
                     pos=Integer.parseInt(br.readLine());
                     ll.set(pos,element);
                     break;
+                case 4:
+                    System.out.println("enter position");
+                    pos=Integer.parseInt(br.readLine());
+                    System.out.print(ll.get(pos));
                 default:
                     return;
             }

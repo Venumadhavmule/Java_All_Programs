@@ -1,6 +1,8 @@
 package Lecture.Collections.List.ArrayList;
 /*
 ArrayList class:
+-----> ArrayList Is not Synchronised.
+------> Vector is Synchronised.
 Array list is similar to an array but it grows dynamically in memory . It is not synchronized.
    ( when the multiple threads are acting will give the wrong result)
 1.To create an arraylist
