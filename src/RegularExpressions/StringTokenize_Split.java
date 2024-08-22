@@ -9,7 +9,7 @@ public class StringTokenize_Split {
             System.out.println(st.nextToken());
         }
         System.out.println();
-        // By using delim operator
+        // By using delim(delimiter) operator
         StringTokenizer one=new StringTokenizer("04 OCT,2002","-.,/% ");
         while(one.hasMoreTokens()){
             System.out.println(one.nextToken());
