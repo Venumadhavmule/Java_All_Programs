@@ -8,9 +8,9 @@
 - OOPS
 - Collections
 ### Interview Programs 🧠🧠
-- Basic programs LIKE (Fibonacci Series, Multiplication table, Even or Odd etc.,) 
-- *** PATTERN PROGRAMS *** LIKE (pyramid, diamond, triangle etc.,)
-- "String Programs" LIKE (Reverse String, palindrome, etc.,)
-- 1 Number Type Programs 9
+- ### [Basic programs](https://github.com/Venumadhavmule/Java_All_Programs/tree/master/src/Simple_programs) LIKE (Fibonacci Series, Multiplication table, Even or Odd etc.,) 
+- ### [*** PATTERN PROGRAMS ***](https://github.com/Venumadhavmule/Java_All_Programs/tree/master/src/PatternPrograms/StarPatterns) LIKE (pyramid, diamond, triangle etc.,)
+- ### ["String Programs"](https://github.com/Venumadhavmule/Java_All_Programs/tree/master/src/Lecture/String/StringsProblems) Like (Reverse String, palindrome, etc.,)
+- ### [1 Numbers Pattern Programs 9](https://github.com/Venumadhavmule/Java_All_Programs/tree/master/src/PatternPrograms/NumbersPattern) (Number Traingle, Concentric Triangle, etc.,)
 - ### [Algorithmic Programs](https://github.com/Venumadhavmule/Java_All_Programs/tree/master/src/AlgorithmicPrograms) (Armstrong Number, Anagram, Pangram, Happy Number, etc.,)
 
