@@ -12,4 +12,5 @@
 - *** PATTERN PROGRAMS *** LIKE (pyramid, diamond, triangle etc.,)
 - "String Programs" LIKE (Reverse String, palindrome, etc.,)
 - 1 Number Type Programs 9
+- ### [Algorithmic Programs](https://github.com/Venumadhavmule/Java_All_Programs/tree/master/src/AlgorithmicPrograms) (Armstrong Number, Anagram, Pangram, Happy Number, etc.,)
 
