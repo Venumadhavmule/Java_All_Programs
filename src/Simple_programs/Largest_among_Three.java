@@ -11,7 +11,7 @@ public class Largest_among_Three {
         int number2 = obj.nextInt();
         System.out.print("Enter third number: ");
         int number3 = obj.nextInt();
-        if (number1 > number2 && number1 > number2) {
+        if (number1 > number2 && number1 > number3) {
             System.out.println(number1 + " is greater than " + number2 + " and " + number3);
         }else if(number2>number3 ){
             System.out.println(number2 + " is greater than " + number1 + " and " + number3);
