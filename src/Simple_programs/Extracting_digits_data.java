@@ -23,9 +23,6 @@ public class Extracting_digits_data {
         count--;
     }
 
-    {
-
-    }
 }
 
 }
