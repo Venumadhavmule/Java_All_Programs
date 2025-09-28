@@ -1,8 +1,7 @@
-package Streams;
+package Streams_Lambdas;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class Filtering_List_with_Lambda {
     public static void main(String[] args) {

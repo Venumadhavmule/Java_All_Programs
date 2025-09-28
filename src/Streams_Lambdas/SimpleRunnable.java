@@ -1,4 +1,4 @@
-package Streams;
+package Streams_Lambdas;
 
 public class SimpleRunnable {
     public static void main(String[] args) {
