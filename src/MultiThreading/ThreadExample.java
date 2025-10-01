@@ -1,7 +1,7 @@
 package MultiThreading;
 
 public class ThreadExample {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
         // Without Threads
 //        for (int i = 0; i < 10; i++) {
@@ -30,7 +30,7 @@ public class ThreadExample {
 
 
         Thread t2 = new Thread(() -> {
-            for (char c = 'A'; c<='Z'; c++) {
+            for (char c = 'A'; c <= 'Z'; c++) {
                 System.out.println("Task 2 - Letter: " + c);
                 try {
                     Thread.sleep(500);
@@ -44,6 +44,7 @@ public class ThreadExample {
 
         t1.start();
 //        t1.join(5000, t2);
+        Thread.sleep(5000);
         t2.start();
 
     }
